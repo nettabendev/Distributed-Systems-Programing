@@ -7,4 +7,4 @@ The manager side hold a list of adresses for pictures stored in s3.
 Each worker takes some load of the work by communicating with the mannageer side. further explanation of how this code works you can find in the other readme file. 
 
 CREDITS:
-The Assignment was the product of the combined work of my partner Abraham Cohen and me.
+This Assignment is the product of the combined work of my partner Abraham Cohen and me.
