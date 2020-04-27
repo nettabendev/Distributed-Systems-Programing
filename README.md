@@ -5,3 +5,6 @@ The program will have a  locall app that will run things on amazon:
 In order to use the resourses that amazon provides we created a manager-worker environment that does that. There is one manager and several workers which communicate with the mannager.
 The manager side hold a list of adresses for pictures stored in s3.
 Each worker takes some load of the work by communicating with the mannageer side. further explanation of how this code works you can find in the other readme file. 
+
+CREDITS:
+The Assignment was the product of the combined work of my partner Abraham Cohen and me.
