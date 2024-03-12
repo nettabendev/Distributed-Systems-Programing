@@ -1,4 +1,4 @@
-# Distributed-Systems-Programing-Assignment1
+# Distributed-Systems-Programing
 Assignment1 in the course Distributed System Programing 1 which I took in Ben Gurion University in spring 2018.
 The assignment goal is to create a simple program which use aws in order to aplly an ocr algorithm on a list of photoes which are been stored in s3.
 The program will have a  locall app that will run things on amazon:
